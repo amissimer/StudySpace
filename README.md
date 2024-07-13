@@ -1,5 +1,5 @@
 # StudySpace
-Developed a working prototype mobile application called StudySpaces for the SheInnovates Hackathon 2024 with Grace Hines and Sruthi Malineni.
+Developed a working prototype mobile application called StudySpaces for the 2024 SheInnovates Hackathon with Grace Hines and Sruthi Malineni.
 
 We have all struggled to find open spaces to study across Pitt's campus, making it one of the most frustrating parts of being a student. We believe this app would help make the process of finding a study space more streamlined and easy.
 
