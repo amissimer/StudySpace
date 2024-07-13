@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Reccomended: Mervis Hall",
+        "category": "",
+        "city": "",
+        "state": "40% occupancy",
+        "id": 1000,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Outlets: decent amount",
+        "coordinates": {
+            "longitude": -79.953337,
+            "latitude": 40.440793
+        },
+        "description": "Based on your location, recent activity, and available space.\n\n202: 3-5 pm; 7-11 pm\n204: 5-9 pm\n205: 9-11 am; 4-8 pm",
+        "imageName": "mervishall"
+    },
+    {
+        "name": "The Cathedral of Learning",
+        "category": "",
+        "city": "",
+        "state": "60% occupancy",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Outlets: very few",
+        "coordinates": {
+            "longitude": -79.95306,
+            "latitude": 40.44417
+        },
+        "description": "200: 4-6 pm; 8-10 pm\n201: 6-10 pm\n205: 4-8 pm",
+        "imageName": "cathy"
+    },
+    {
+        "name": "Hillman Library",
+        "category": "",
+        "city": "",
+        "state": "75% occupancy",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Outlets: many",
+        "coordinates": {
+            "longitude": -79.9546,
+            "latitude": 40.4414
+        },
+        "description": "200: 8-10 am; 2-4 pm\n201: 8 am - 6pm \n202: 12-2pm; 6-10 pm \n204: 10 am - 12 pm; 4-6 pm",
+        "imageName": "hillman"
+    },
+    {
+        "name": "Wesley W. Posvar Hall",
+        "category": "",
+        "city": "",
+        "state": "85% occupancy",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Outlets: varies",
+        "coordinates": {
+            "longitude": -79.953792,
+            "latitude": 40.441648
+        },
+        "description": "200: 9-11 am; 3-5 pm \n201: 7 am - 3 pm \n202: 1-3 pm; 5-9 pm \n205: 11 am - 1 pm; 4-8 pm",
+        "imageName": "posvar"
+    },
+    {
+        "name": "Sennott Square",
+        "category": "",
+        "city": "",
+        "state": "40% occupancy",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Outlets: decent amount",
+        "coordinates": {
+            "longitude": -79.956346,
+            "latitude": 40.441482
+        },
+        "description": "200: 4-6 pm; 8-10 pm\n201: 6-10 pm\n205: 4-8 pm",
+        "imageName": "sennott"
+    },
+    {
+        "name": "Mervis Hall",
+        "category": "",
+        "city": "",
+        "state": "50% occupancy",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Outlets: decent amount",
+        "coordinates": {
+            "longitude": -79.953337,
+            "latitude": 40.440793
+        },
+        "description": "202: 3-5 pm; 7-11 pm\n204: 5-9 pm\n205: 9-11 am; 4-8 pm",
+        "imageName": "mervishall"
+    },
+    
+    {
+        "name": "William Pitt Union",
+        "category": "",
+        "city": "",
+        "state": "65% occupancy",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Outlets: Varies",
+        "coordinates": {
+            "longitude": -79.9546972,
+            "latitude": 40.4432722
+        },
+        "description": "201: 2-6 pm; 8-10pm\n202: 11-3 pm\n203: 8-10 pm\n205: 3-8 pm",
+        "imageName": "wpu"
+    },
+    {
+        "name": "Frick Fine Arts Building",
+        "category": "",
+        "city": "",
+        "state": "30% occupancy",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Outlets: Varies",
+        "coordinates": {
+            "longitude": -79.95125,
+            "latitude": 40.4416972
+        },
+        "description": "200: 12-6 pm; 8-10pm\n202: 1-4 pm\n204: 9-11am; 8-10 pm\n205: 10-12pm; 6-8 pm",
+        "imageName": "frickbldg"
+    },
+    {
+        "name": "Salk Hall",
+        "category": "",
+        "city": "",
+        "state": "42% occupancy",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Outlets: Good Amount",
+        "coordinates": {
+            "longitude": -79.962914,
+            "latitude": 40.44271
+        },
+        "description": "200: 8-10am; 2-10pm\n201: 9-12pm; 2-4pm\n203: 9-11am; 5-10 pm\n205: 10-3pm",
+        "imageName": "salk"
+    },
+    {
+        "name": "David Lawrence Hall",
+        "category": "",
+        "city": "",
+        "state": "70% occupancy",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Outlets: Good Amount",
+        "coordinates": {
+            "longitude": -79.955303,
+            "latitude": 40.442399
+        },
+        "description": "201: 8-10am; 2-6pm\n202: 9-12pm; 3-6pm\n204: 9-11am; 4-10 pm",
+        "imageName": "lawrence"
+    },
+    {
+        "name": "Chevron Science Building",
+        "category": "",
+        "city": "",
+        "state": "90% occupancy",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Outlets: Very Few",
+        "coordinates": {
+            "longitude": -79.957586,
+            "latitude": 40.445825
+        },
+        "description": "202: 9-10am\n205: 3-4pm",
+        "imageName": "chevron"
+    },
+    
+    
+]
